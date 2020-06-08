@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://anmolgautam303:Anmolgautam123@nodereactapp-a8wvh.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientID": "fe13cf7eea59d040bc33",
+  "githubClientSecret":"bcc5e5e6d96359f9498beaf7e85de5ccd4da5be8"
+}
